@@ -1,0 +1,30 @@
+.wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	Justify-content: center;
+}
+
+.header {
+	width: 1vw;
+}
+
+.logo {
+	width: 100px;
+	height: 100px;
+}
+
+.nav {
+	width: 500px;
+	height: 40px;
+}
+
+.content {
+	width: 1vw;
+	height: 1vh;
+	background-color: grey;
+}
+
+.footer {
+	width: 1vw;
+	height: 100px;
+}
