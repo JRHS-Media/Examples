@@ -3,6 +3,7 @@
 	flex-wrap: wrap;
 	Justify-content: center;
     width: 80vw;
+    align-self: center;
 }
 
 .header {
