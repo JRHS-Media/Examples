@@ -11,11 +11,13 @@
 .logo {
 	width: 100px;
 	height: 100px;
+    align-self: flex-start;
 }
 
 .nav {
 	width: 500px;
 	height: 40px;
+    align-self: flex-end;
 }
 
 .content {
