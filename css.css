@@ -2,7 +2,7 @@
 	display: flex;
 	flex-wrap: wrap;
 	Justify-content: center;
-    width: 1vw;
+    width: 100vw;
 }
 
 .header {
@@ -22,12 +22,12 @@
 }
 
 .content {
-	width: 1vw;
-	height: 1vh;
+	width: 100vw;
+	height: 100vh;
 	background-color: grey;
 }
 
 .footer {
-	width: 1vw;
+	width: 100vw;
 	height: 100px;
 }
