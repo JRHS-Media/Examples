@@ -2,8 +2,6 @@
 	display: flex;
 	flex-wrap: wrap;
 	Justify-content: center;
-    width: 80vw;
-    align-content: center;
     align-items: center;
 }
 
