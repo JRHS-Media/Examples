@@ -2,10 +2,11 @@
 	display: flex;
 	flex-wrap: wrap;
 	Justify-content: center;
+    width: 1vw;
 }
 
 .header {
-	width: 1vw;
+	width: 80%;
 }
 
 .logo {
